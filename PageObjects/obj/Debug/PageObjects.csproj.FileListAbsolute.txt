@@ -1,0 +1,17 @@
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_5_Stub\PageObjects\bin\Debug\PageObjects.dll
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_5_Stub\PageObjects\bin\Debug\PageObjects.pdb
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_5_Stub\PageObjects\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_5_Stub\PageObjects\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_5_Stub\PageObjects\bin\Debug\WebDriver.dll
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_5_Stub\PageObjects\bin\Debug\WebDriver.Support.dll
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_5_Stub\PageObjects\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_5_Stub\PageObjects\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_5_Stub\PageObjects\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_5_Stub\PageObjects\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_5_Stub\PageObjects\bin\Debug\WebDriver.pdb
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_5_Stub\PageObjects\bin\Debug\WebDriver.xml
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_5_Stub\PageObjects\bin\Debug\WebDriver.Support.pdb
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_5_Stub\PageObjects\bin\Debug\WebDriver.Support.xml
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_5_Stub\PageObjects\obj\Debug\PageObjects.csprojResolveAssemblyReference.cache
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_5_Stub\PageObjects\obj\Debug\PageObjects.dll
+C:\Users\Christian Gibbs\Documents\GitHub\QA-CSharp-Automation_Code_Challenge_5_Stub\PageObjects\obj\Debug\PageObjects.pdb

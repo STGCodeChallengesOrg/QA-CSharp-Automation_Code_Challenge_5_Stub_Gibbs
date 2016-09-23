@@ -1,0 +1,7 @@
+﻿ EXAMPLES OF [FindsBy] NOTATION:
+
+[FindsBy]: locates a single WebElement, or a group of WebElements, using a single criteria. This example finds the main page logo, using the name of the css class, and assigns it to a WebElement object variable:
+
+[FindsBy(How = How.ClassName, Using = "HeaderMain-logo-Img")]
+        IWebElement homePageLinkLogo;
+
